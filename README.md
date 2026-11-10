@@ -1,5 +1,8 @@
 # Samuel Picado
 
+![Open to internships](https://img.shields.io/badge/Status-Open%20to%20internships-6366f1?style=flat-square)
+![Web and desktop development](https://img.shields.io/badge/Focus-Web%20%26%20desktop%20applications-6366f1?style=flat-square)
+
 Information Systems Engineering student at **Universidad Nacional de Costa Rica, Sede Regional Brunca**, based in Pérez Zeledón, Costa Rica.
 
 I work on web and desktop applications, relational databases and reproducible Linux environments. My project experience includes Angular and React interfaces, FastAPI services, JavaFX applications, API integration and database migrations.
@@ -16,9 +19,13 @@ These repositories include personal work and collaborative projects. The contrib
 | [RAG-System](https://github.com/Alexzm25/RAG-System) | JavaFX interface structure, controllers and styling; backend Docker configuration. | JavaFX, Docker; team backend uses Spring Boot and PostgreSQL/pgvector |
 | [Cooperative Mahjong API](https://github.com/MaikelJSQ24/mahjog_api) and [client](https://github.com/MaikelJSQ24/mahjog_cliente) | Multiplayer backend logic, Socket.IO events and player limits; client styling contributions. | TypeScript, Express, Socket.IO, React |
 | [NixOS dotfiles](https://github.com/samuelpicado/dotfiles) | Modular configuration for my Linux workstations, using flakes and Home Manager. | Nix, NixOS, Home Manager, GNOME |
-| [Personal portfolio coursework](https://github.com/samuelpicado/Laboratorio-1-Programacion-4) | Static HTML/CSS website developed as an academic assignment. | HTML, CSS |
+| [Personal portfolio coursework](https://github.com/samuelpicado/Portfolio) | Static HTML/CSS website developed as an academic assignment. | HTML, CSS |
 
 ## Technologies used in my projects
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,cpp,html,css,angular,react,fastapi,qt,postgres,docker,git,linux,nix&perline=8" alt="Technologies used in my projects: Java, Python, TypeScript, JavaScript, C++, HTML, CSS, Angular, React, FastAPI, Qt, PostgreSQL, Docker, Git, Linux and NixOS" />
+</a>
 
 | Area | Technologies |
 | --- | --- |
@@ -38,3 +45,31 @@ These repositories include personal work and collaborative projects. The contrib
 
 **Information Systems Engineering**, Universidad Nacional de Costa Rica, Sede Regional Brunca. Third-year undergraduate student.
 
+## GitHub activity
+
+These cards summarize publicly available GitHub activity. Private projects and some team contributions may be missing.
+
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samuelpicado&amp;theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samuelpicado&amp;theme=github" alt="Samuel Picado's public GitHub contribution summary" />
+  </picture>
+</a>
+
+<details>
+<summary>Contribution streak</summary>
+
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=samuelpicado&amp;theme=github-dark-blue&amp;hide_border=true&amp;timezone=America%2FCosta_Rica&amp;disable_animations=true" />
+    <img src="https://streak-stats.demolab.com/?user=samuelpicado&amp;theme=default&amp;hide_border=true&amp;timezone=America%2FCosta_Rica&amp;disable_animations=true" alt="Samuel Picado's GitHub contribution streak" />
+  </picture>
+</a>
+
+</details>
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=samuelpicado&color=6366f1&style=flat-square)
+
+<sub>Profile views count page loads, including repeat visits.</sub>
