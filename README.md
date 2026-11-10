@@ -51,8 +51,8 @@ These cards summarize publicly available GitHub activity. Private projects and s
 
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samuelpicado&amp;theme=github_dark" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samuelpicado&amp;theme=github" alt="Samuel Picado's public GitHub contribution summary" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samuelpicado&amp;theme=github_dark&amp;name=Samuel%20Picado" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samuelpicado&amp;theme=github&amp;name=Samuel%20Picado" alt="Samuel Picado's public GitHub contribution summary" />
   </picture>
 </a>
 
